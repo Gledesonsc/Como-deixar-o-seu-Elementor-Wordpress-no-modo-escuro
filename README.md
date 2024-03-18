@@ -10,7 +10,7 @@
 
 📝 **Passo 3:** Em "Preferências", selecione a primeira opção denominada "Tema da interface do usuário".
 
-![Passo 3](link_da_imagem_passo_3)
+![Passo 3]([link_da_imagem_passo_3](https://raw.githubusercontent.com/Gledesonsc/Como-deixar-o-seu-Elementor-Wordpress-no-modo-escuro/4e7da4c99ee459d80af11f01430fc0316d973b8b/03.png))
 
 📝 **Passo 4:** Selecione o modo escuro no seletor.
 
