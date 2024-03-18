@@ -2,7 +2,7 @@
 
 📝 **Passo 1:** Abra uma página com o editor do Elementor.
 
-![Passo 1](link_da_imagem_passo_1)
+![Passo 1](https://raw.githubusercontent.com/Gledesonsc/Como-deixar-o-seu-Elementor-Wordpress-no-modo-escuro/main/01.png)
 
 📝 **Passo 2:** No menu superior esquerdo do widget do Elementor, clique em "Preferências".
 
