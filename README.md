@@ -15,7 +15,7 @@
 
 📝 **Passo 4:** Selecione o modo escuro no seletor.
 
-![Passo 4](link_da_imagem_passo_4)
+![Passo 4](https://raw.githubusercontent.com/Gledesonsc/Como-deixar-o-seu-Elementor-Wordpress-no-modo-escuro/main/04.png)
 
 📝 **Passo 5:** Após selecionar o modo escuro, aplique as atualizações para salvar as alterações.
 
