@@ -19,6 +19,6 @@
 
 📝 **Passo 5:** Após selecionar o modo escuro, aplique as atualizações para salvar as alterações.
 
-![Passo 5](link_da_imagem_passo_5)
+![Passo 5](https://raw.githubusercontent.com/Gledesonsc/Como-deixar-o-seu-Elementor-Wordpress-no-modo-escuro/13e344ff4c1f512132b0007ac6a41e35757a5411/05.png)
 
 Agora você configurou o seu Elementor para o modo escuro, proporcionando uma experiência visual agradável durante a edição do seu site Wordpress! 🎉
