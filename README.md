@@ -6,7 +6,7 @@
 
 📝 **Passo 2:** No menu superior esquerdo do widget do Elementor, clique em "Preferências".
 
-![Passo 2](link_da_imagem_passo_2)
+![Passo 2](https://raw.githubusercontent.com/Gledesonsc/Como-deixar-o-seu-Elementor-Wordpress-no-modo-escuro/main/02.png)
 
 📝 **Passo 3:** Em "Preferências", selecione a primeira opção denominada "Tema da interface do usuário".
 
